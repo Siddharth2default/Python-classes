@@ -1,0 +1,5 @@
+happy
+sad
+angry
+calm
+peace-out2last char
